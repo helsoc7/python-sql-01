@@ -6,3 +6,6 @@
     - Age (Integer)
     - E-Mail (varchar(100))
 2. Füge zwei Teilnehmer hinzu
+
+
+Ey, das ist noch nicht das Ende!
