@@ -64,11 +64,11 @@ def select_tn():
     connection.close()
 
 create_datenbank()
-#name = input("Bitte gib deinen Namen ein: ")
-#age_str = input("Bitte gib dein Alter ein: ")
-#age = int(age_str)
-#email = input("Bitte gib deine E-Mail-Adresse ein: ")
-#insert_tn(name, age, email)
+name = input("Bitte gib deinen Namen ein: ")
+age_str = input("Bitte gib dein Alter ein: ")
+age = int(age_str)
+email = input("Bitte gib deine E-Mail-Adresse ein: ")
+insert_tn(name, age, email)
 select_tn()
 
 
